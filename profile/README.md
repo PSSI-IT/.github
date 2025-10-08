@@ -10,10 +10,6 @@ Overall location for some of Fortrex's codebases maintained by the dev team. Cur
 - [Josh Einsweiler](https://www.github.com/JoshEins)
 - [Jaelen Martin](https://www.github.com/jmartin-pssi)
 
-## Documentation
-
-[Link to OneDrive](https://pssi.sharepoint.com/:f:/r/sites/TEAMSITAppDev/Shared%20Documents/General?csf=1&web=1&e=1GuU6H)
-
 
 ## Used By
 
